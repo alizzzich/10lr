@@ -1,0 +1,4 @@
+theme: "hugo-theme-quint"
+baseURL: https://example.org/
+languageCode: en-us
+title: Лабораторная работа №10
